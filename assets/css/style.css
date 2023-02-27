@@ -1,2 +1,6 @@
 /* #region Debug */
+.debug #site_header {
+  border: 1px dashed;
+  height: 100px;
+}
 /* #endregion Debug */
