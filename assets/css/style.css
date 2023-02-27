@@ -1,6 +1,15 @@
 /* #region Debug */
-.debug #site_header, .debug #jumbo {
+.debug #site_header,
+.debug #jumbo,
+.debug #portfolio {
   border: 1px dashed;
   height: 100px;
+}
+
+.debug #portfolio .col-12,
+.debug #portfolio .col-md-6,
+.debug #portfolio .col-lg-4 {
+  background-color: blue;
+  
 }
 /* #endregion Debug */
