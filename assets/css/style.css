@@ -25,6 +25,10 @@ figure {
   width: 228px;
 }
 
+.content {
+  width: 80%;
+}
+
 #about {
   background-color:#1abc9c;
 }
