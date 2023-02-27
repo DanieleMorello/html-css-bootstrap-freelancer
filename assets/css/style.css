@@ -1,5 +1,5 @@
 /* #region Debug */
-.debug #site_header {
+.debug #site_header, .debug #jumbo {
   border: 1px dashed;
   height: 100px;
 }
