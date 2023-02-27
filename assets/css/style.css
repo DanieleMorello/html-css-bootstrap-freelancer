@@ -2,19 +2,15 @@
 .debug #site_header,
 .debug #jumbo,
 .debug #portfolio,
+.debug #portfolio .col-12,
+.debug #portfolio .col-md-6,
+.debug #portfolio .col-lg-4
 .debug #about,
 .debug #contact,
 .debug #site_footer {
   border: 1px dashed;
-  height: 100px;
+  /* height: 100px; */
 }
-
-.debug #portfolio .col-12,
-.debug #portfolio .col-md-6,
-.debug #portfolio .col-lg-4 {
-  background-color: blue;
-}
-
 
 /* #endregion Debug */
 #site_header {
@@ -23,6 +19,10 @@
 
 #jumbo {
   background-color:#1abc9c;
+}
+
+figure {
+  width: 228px;
 }
 
 #about {
