@@ -77,6 +77,8 @@ footer i {
 }
 /* #endregion Footer */
 
-@media screen and (min-whidth: 576px) {
-  
+@media (min-width: 576px) { 
+  .text_general {
+    font-size: 2rem;
+  }
 }
