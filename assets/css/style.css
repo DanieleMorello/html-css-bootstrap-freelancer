@@ -70,4 +70,13 @@
 #footer_top {
   background-color: var(--boot_lightdark);
 }
+
+footer i {
+  color: white;
+  
+}
 /* #endregion Footer */
+
+@media screen and (min-whidth: 576px) {
+  
+}
