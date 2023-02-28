@@ -27,6 +27,20 @@
   background-color:var(--boot_green);
 }
 
+#jumbo img {
+  width: 237px;
+}
+
+/* .hr_sm {
+  width: 10%;
+  height: 3px;
+} */
+
+.line {
+  border-bottom: 3px solid white;
+  width: 20%;
+}
+
 /* #region Footer */
 #footer_top {
   background-color: var(--boot_lightdark);
