@@ -44,9 +44,22 @@
 
 .line {
   border-bottom: 3px solid white;
-  width: 20%;
+  width: 15%;
 }
 
+.line_left {
+  margin-right: 2rem;
+  margin-bottom: 1rem;
+}
+
+.star {
+  margin-top: 1rem;
+}
+
+.line_right {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
 /* #region Footer */
 #footer_top {
   background-color: var(--boot_lightdark);
