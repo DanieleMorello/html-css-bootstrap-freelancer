@@ -19,8 +19,14 @@
 }
 
 /* #endregion Debug */
+
+/* Header */
 #site_header, #footer_bottom {
   background-color: var(--boot_dark);
+}
+
+#site_header a {
+  font-weight: bold;
 }
 
 #jumbo, #about {
