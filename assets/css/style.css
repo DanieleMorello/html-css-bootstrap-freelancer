@@ -59,8 +59,12 @@
 
 /* #endregion Jumbo */
 
-#portfolio .line {
+#portfolio .line, #contact .line {
   border-bottom:  3px solid black;
+}
+
+[type="submit"] {
+  background-color: var(--boot_green);
 }
 /* #region Footer */
 #footer_top {
