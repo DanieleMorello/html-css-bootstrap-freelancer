@@ -82,3 +82,9 @@ footer i {
     font-size: 2rem;
   }
 }
+
+@media (min-width: 768px) { 
+  .text_general {
+    font-size: 1.4rem;
+  }
+}
